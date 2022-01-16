@@ -1,8 +1,20 @@
-// Assignment code here
-
-
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
+
+function generatePassword() {
+  console.log("confirmed click")
+
+ // password variables
+
+
+ // validate password
+
+
+ // display password
+ 
+ 
+  return "";
+}
 
 // Write password to the #password input
 function writePassword() {
